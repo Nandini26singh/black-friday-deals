@@ -100,6 +100,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
 | [**Super Monitoring**](https://www.supermonitoring.com/) | Super Monitoring tracks website and web app uptime, speed, and performance to ensure everything runs smoothly. | 50 percent off one-time for new customers (Coupon: `SUPERBLACK25`) | November 28, 2025 to December 5, 2025 |
+| [**Beagle Security**](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — Applies to Essential & Advanced plans for 6 months | Nov 25 – Dec 4, 2025 |
 
 
 ---
@@ -140,6 +141,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
 | [**Qandle**](https://www.qandle.com/) | Qandle is an all-in-one HR software that streamlines payroll, attendance, leave management, and overall workforce operations with automation and an intuitive interface. | Up to 25 percent off on all plans | November 24, 2025 to December 31, 2025 |
 | [**Habit Pixel**](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied) | Nov 20 – Dec 1, 2025 |
+| [**Octoparse**](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). | 2025-12-03 |
+| [**XGetter**](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | November 17, 2025 to December 1, 2025 |
 
 ---
 
