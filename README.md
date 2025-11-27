@@ -196,7 +196,6 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Practical TLS**](https://classes.pracnet.net/courses/practical-tls) | Comprehensive course with 80+ videos and 40+ labs to master SSL/TLS, cryptography, ciphers, and real-world security practices. | 83% OFF Full Course — Now $47 (Coupon: `BFCM2025`) | Nov 17 – Dec 6, 2025 |
 | [**Fast Track To Senior Engineer**](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, coupon: `BF1125` | Ends on Dec 15, 2025 |
 | [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the CompTIA Security+ SY0-701). | **20% off** all plans **including Lifetime** with the coupon: `BLKFRI20` | Ends on Dec 5, 2025 |
-| [**VueSchool**](https://vueschool.io/?utm_source=greygrids&utm_medium=github&utm_campaign=vs_bf2025_bfr) | #1 Vue.js learning platform with expert-led Vue and Nuxt training for 200K+ developers. | 60% OFF Yearly or Lifetime plans + free bonus resources | Nov 13 – Dec 5, 2025 |
 | [**Certificates.dev**](https://certificates.dev/?utm_source=greygrids&utm_medium=github&utm_campaign=cert_bf2025_bf) | Certifications for React, Angular, JavaScript, Vue, and Nuxt built with creators and industry experts; trusted by developers at 680+ companies. | Up to 60% OFF + free Junior certification and two AI dev courses | Nov 11 – Dec 3, 2025 |
 
 
@@ -266,6 +265,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
